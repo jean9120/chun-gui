@@ -17,7 +17,8 @@ body {
     max-width: 1920px;
     margin: 0 auto 20px;
     padding: 15px 20px;
-    background: white;
+    background: rgba(255, 255, 255, 0.5);
+    backdrop-filter: blur(10px);
     border-radius: 8px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
     display: flex;
@@ -404,4 +405,5 @@ h1 {
     }
 
 }
+
 

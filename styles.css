@@ -6,7 +6,7 @@
 
 body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans SC", sans-serif;
-    background: #F3E5F5;
+    background: #D8BFD8;
     min-height: 100vh;
     padding: 20px;
     overflow-x: hidden;
@@ -404,3 +404,4 @@ h1 {
     }
 
 }
+
